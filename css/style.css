@@ -283,13 +283,13 @@ a, a:hover{
 }
 
 .portfolio-section .inner-portfolio{
-	width: 100%;
+	width: 95%;
 	float: left;
 	position: relative;
 }
 
 .portfolio-section .inner-portfolio .hover {
-    width: 95%;
+    width: 100%;
     float: left;
     background: rgba(39,164,242,0.8);
     position: absolute;
